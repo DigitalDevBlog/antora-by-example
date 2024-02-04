@@ -1,12 +1,12 @@
 site:
   title: Antora by Example
   url: https://digitaldevblog.github.io/antora-by-example/
-  start_page: getting-started::index.adoc
+  start_page: index.adoc
 content:
   sources:
     - url: https://github.com/DigitalDevBlog/antora-by-example.git
       branches: documentation
-      start_path: docs/getting-started
+      start_path: docs
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
