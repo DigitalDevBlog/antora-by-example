@@ -1,0 +1,4 @@
+= Getting Started
+
+* xref:index.adoc[Getting Started]
+* xref:getting_started.adoc[Getting Started]
