@@ -7,7 +7,6 @@ content:
     - url: https://github.com/DigitalDevBlog/antora-by-example.git
       start_path: docs/getting-started
       branches: documentation
-      start_page: nav.adoc
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
