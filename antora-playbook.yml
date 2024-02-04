@@ -5,7 +5,6 @@ site:
 content:
   sources:
     - url: https://github.com/DigitalDevBlog/antora-by-example.git
-      start_path: docs/getting-started
       branches: documentation
 ui:
   bundle:
